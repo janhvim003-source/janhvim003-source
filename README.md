@@ -17,4 +17,4 @@ I am a Data Science enthusiast focused on Machine Learning, Computer Vision, and
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janhvim003-source&layout=compact&theme=radical)
 
 ---
-📫 **How to reach me:** [Your Email or LinkedIn Link]
+📫 **How to reach me:** [janhvi.m003@gmail.com]
